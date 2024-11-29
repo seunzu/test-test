@@ -9,7 +9,7 @@ class TestApplicationTests {
 
     @Test
     void contextLoads() {
-        Assertions.assertThat(1).isEqualTo(1+1);
+        Assertions.assertThat(3).isEqualTo(1+1);
     }
 
 }
